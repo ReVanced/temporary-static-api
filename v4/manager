@@ -1,0 +1,6 @@
+{
+    "version": "v1.23.2",
+    "created_at": "2024-11-12T23:45:30",
+    "description": "## [1.23.2](https://github.com/ReVanced/revanced-manager/compare/v1.23.1...v1.23.2) (2024-11-12)\n\n\n### Bug Fixes\n\n* Handle migration of default URL used in v1.22 as well ([851b06b](https://github.com/ReVanced/revanced-manager/commit/851b06b0d277c841a631a2298647e02b781203f8))\n\n\n\n",
+    "download_url": "https://github.com/ReVanced/revanced-manager/releases/download/v1.23.2/revanced-manager-1.23.2.apk"
+}
